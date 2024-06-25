@@ -13,7 +13,7 @@ export default function Projects() {
             Sponsors
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-           These are the official sposnosrs of Developers & Coders Club feel free to check them out. We at Developers & Coders Club accept sponsorships only from those brands which we trust ourselves
+           These are the official sponsors of Developers & Coders Club feel free to check them out. We at Developers & Coders Club accept sponsorships only from those brands which we trust ourselves
           </p>
         </div>
         <div className="container py-12">
