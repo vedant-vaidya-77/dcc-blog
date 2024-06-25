@@ -13,10 +13,10 @@ const Header = () => {
         <Link href="/" aria-label={siteMetadata.headerTitle}>
           <div className="flex items-center justify-between">
           <div className="mr-3 hidden dark:block">
-  <Image src="/static/images/logo3.png" alt="Logo 2" width={300} height={300} className="rounded-3xl" />
+  <Image src="/static/images/logo3.png" alt="Logo 2" width={100} height={100} className="rounded-3xl" />
 </div>
 <div className="mr-3 block dark:hidden">
-  <Image src="/static/images/logo2.png" alt="Logo 3" width={300} height={300} className="rounded-3xl" />
+  <Image src="/static/images/logo2.png" alt="Logo 3" width={100} height={100} className="rounded-3xl" />
 </div>
 
             {typeof siteMetadata.headerTitle === 'string' ? (

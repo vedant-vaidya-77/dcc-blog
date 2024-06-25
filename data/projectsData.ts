@@ -7,16 +7,16 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'Coding Ninjas',
-    description: `Coding Ninjas offers high-quality tech courses in web development, Kubernetes, data structures and algorithms, and machine learning. With hands-on learning, expert mentors, and comprehensive curricula, Coding Ninjas equips students with practical skills and industry readiness, fostering successful tech careers.`,
+    title: 'Slot Available',
+    description: `This slot is open for sponsors! If you are interested in sponsoring us, please contact us at dccnita@gmail.com. We accept sponsorships only from brands that we trust ourselves.`,
     imgSrc: '/static/images/ninjas.jpeg',
-    href: 'https://www.google.com',
+    href: 'mailto:dccnita@gmail.com',
   },
   {
-    title: 'Coding Ninjas',
-    description: `Coding Ninjas offers high-quality tech courses in web development, Kubernetes, data structures and algorithms, and machine learning. With hands-on learning, expert mentors, and comprehensive curricula, Coding Ninjas equips students with practical skills and industry readiness, fostering successful tech careers.`,
+    title: 'Slot Available ',
+    description: `This slot is open for sponsors! If you are interested in sponsoring us, please contact us at dccnita@gmail.com. We accept sponsorships only from brands that we trust ourselves.`,
     imgSrc: '/static/images/ninjas.jpeg',
-    href: 'https://www.google.com',
+    href: 'mailto:dccnita@gmail.com',
   },
 ]
 
