@@ -16,7 +16,7 @@ const siteMetadata = {
   x: 'https://twitter.com/dccnita?t=wa7G9AW_mHU1jYi5Mfml-Q&s=08',
   // twitter: 'https://twitter.com/Twitter',
   facebook: 'https://twitter.com/dccnita?t=wa7G9AW_mHU1jYi5Mfml-Q&s=08',
-  youtube: 'https://youtube.com',
+  youtube: 'https://youtube.com/@dccnita?si=LnBW1j6fGnGuwE-9',
   linkedin: 'https://www.linkedin.com/company/dccnita/',
   threads: 'https://twitter.com/dccnita?t=wa7G9AW_mHU1jYi5Mfml-Q&s=08',
   instagram: 'https://www.instagram.com/dccnita/',
