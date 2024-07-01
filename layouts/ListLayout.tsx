@@ -8,7 +8,7 @@ import type { Blog } from 'contentlayer/generated'
 import Link from '@/components/Link'
 import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-
+import Image from 'next/image'
 interface PaginationProps {
   totalPages: number
   currentPage: number
@@ -18,6 +18,7 @@ interface ListLayoutProps {
   title: string
   initialDisplayPosts?: CoreContent<Blog>[]
   pagination?: PaginationProps
+  
 }
 
 function Pagination({ totalPages, currentPage }: PaginationProps) {
@@ -65,6 +66,7 @@ export default function ListLayout({
   title,
   initialDisplayPosts = [],
   pagination,
+  image
 }: ListLayoutProps) {
   const [searchValue, setSearchValue] = useState('')
   const filteredBlogPosts = posts.filter((post) => {
